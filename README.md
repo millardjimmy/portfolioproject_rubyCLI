@@ -1,4 +1,6 @@
 Introduction
+
+
 The upcoming CLI project is a great chance for you to show off everything you’ve learned about Ruby so far and for many of us, make the first app that's all your own! This lesson is provided to help you tackle your first portfolio project. Tips on all aspects of the project are included here, so make sure to have a look through!
 
 Use this lesson to help you help you plan for your CLI Project
